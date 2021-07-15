@@ -4,9 +4,9 @@ var score=0;
 function preload() {
  
   
-  bg= loadImage("aladdin_cave2.jpg")
+  bg= loadImage("image/aladdin_cave2.jpg")
   //load image for the treasure background
-  bg2=loadImage("treasure.jpg")
+  bg2=loadImage("image/treasure.jpg")
 }
 
 function setup() {
